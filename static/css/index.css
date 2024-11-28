@@ -1,0 +1,38 @@
+.navbg {
+    --bs-bg-opacity: 1;
+    background-color: rgba(var(--bs-warning-rgb), var(--bs-bg-opacity)) !important;
+}
+
+.rodapebg {
+    --bs-bg-opacity: 1;
+    background-color: rgba(var(--bs-warning-rgb), var(--bs-bg-opacity)) !important;
+
+
+}
+
+.tamanhoImg {
+    width: 60%;
+    height: 45%;
+}
+
+.alinhamentoRodape {
+    margin-top: 12px;
+    padding: 0 30px;
+    background-color: #D9D9D9;
+}
+
+.bannerLogo {
+    background-color: black !important;
+    flex-direction: row;
+    justify-content: center;
+    padding: 10px;
+}
+
+.bannerLogoTamanho {
+    width: 20%;
+}
+
+.margemInformacoes {
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
